@@ -1,0 +1,8 @@
+npm init --y
+
+Ele cria rapidamente sem realizar as perguntas
+
+npm link <name>(Precisa ser utilizado quando temos instalação de uma biblioteca de forma global e seja necessária trazê-la para o projeto local)
+exemplo: npm link loadsh
+
+npm uninstall <name>

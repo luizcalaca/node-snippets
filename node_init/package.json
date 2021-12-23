@@ -1,0 +1,14 @@
+{
+  "name": "node_init",
+  "version": "1.0.0",
+  "description": "first program with init",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luiz Calaça",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
+}

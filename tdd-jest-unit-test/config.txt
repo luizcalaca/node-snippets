@@ -1,0 +1,7 @@
+ npm install --save-dev jest
+
+ jest --init or ./node_modules/.bin/jest --init
+
+npm test
+
+https://exerror.com/zsh-command-not-found-jest/
